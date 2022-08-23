@@ -32,27 +32,11 @@ println("                       sdakfjaskdfj,,,lskadfjklasdfjslkd,,,,,1111111111
 println("                       klsdjflksajf,,,klsadfjklasjdkfjkl.,,,,1111111111111kd");
 println("                                sdklfjksdfjksdjfklsdfjklsdjfslkdfjsd");
 
-println("                                     salkdfjaklsdjfkdsksdflkjsdkfjldkfjdlk");
-println("                                     lkasjdflkjlaskdfjlskdfjlksd,jflksdjfkldfj");
+println("                                     <<<><<<<<<****************<<<<<<<<<<<<<<<<<<<");
+println("                                     ,,,,****>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<");
 println("                                     l*****************************************");
 println("                                      *****************************************");
 println("                                      *****************************************");
-println("                                      **        **      **       **     **
-       println("                                      **        **      **       **     **
-       println("                                       **        **      **       **     **
-                                               **        **     **       **      **
-                                               **        **     **       **      **
-                                               **         **     **      **      **
-                                               **        **     **       **      ** 
-                                               **       
-                                               **
-                                               **
-                                               **
-                                               **
-                                               **
-                                               **
-                                               **
-                                               **
-                                               **
-                                               **
+println("                                      **        **      **       **     **");
+println("                                      **        **      **       **     **");       
                                               
