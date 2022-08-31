@@ -1,0 +1,12 @@
+println(5+3);
+println(7-2);
+println(6*2);
+println (8/4);
+println(6%2);
+println(5 * (3+4));
+println(true && false);
+println(true || true);
+println((true && true) || false);
+println(false == false);
+println(false != true);
+println(3<5 && 9>10);
