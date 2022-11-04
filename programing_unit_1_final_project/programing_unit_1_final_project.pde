@@ -9,7 +9,7 @@ String[][] secondbod = {{" ", " 0", " "},
                     {" >"," ","<"}};   
 //second part of animation
 int count = 0;
-while (count < 100000){ // how many the body will print.
+while (count < 100000){ // how many times the body will print.
   int t = 1;// the smallest number the variable count can be.
   int x = 100000;//largest number  the variable count can be.
   if(t< x){
